@@ -16,6 +16,6 @@
 - 후원 : 한국정보화진흥원(NIA)
 
 
-**최종순위:** 대상
+**최종순위:** 1등(대상)
 
 https://dacon.io/competitions/official/235618/overview/
