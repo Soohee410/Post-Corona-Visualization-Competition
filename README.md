@@ -16,10 +16,8 @@
 ### 주최/주관
 
 - 주최 : KT
-- 주관 : 코리아스타트업포럼(AI i-CON), 데이콘
+- 주관 : 코리아스타트업포럼(AI i-CON), [데이콘](https://dacon.io/competitions/official/235618/overview/)
 - 후원 : 한국정보화진흥원(NIA)
 
 
 **최종순위:** 1등(대상)
-
-https://dacon.io/competitions/official/235618/overview/
