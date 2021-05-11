@@ -19,5 +19,9 @@
 - 주관 : [데이콘(Dacon)](https://dacon.io/competitions/official/235618/overview/), 코리아스타트업포럼(AI i-CON)
 - 후원 : 한국정보화진흥원(NIA)
 
+<br>
+
+**팀:** 숲이와 두부 (박수희, 박기찬)
+
 
 **최종순위:** 1등(대상)
